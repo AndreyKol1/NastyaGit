@@ -1,2 +1,2 @@
 def hei():
-    return "a"
+    return "Andrii is sonechko"
